@@ -51,7 +51,7 @@ export default function About({ resetData, exportData, importData }) {
 						</h2>
 						<h4 className="text-center my-5">
 							Project by{" "}
-								Bro Code
+								Code Champs
 							{" "}
 							<span role="img" aria-label="code-men">
 								👨🏻‍💻
